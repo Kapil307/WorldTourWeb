@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "capital":"Tokyo",
+    "countryName": "Japan",
+    "population": 125960000,
+    "interestingFacts": "Japan consists of over 6,800 islands and is famous for its cherry blossoms and technology."
+  },
+  {
+    "id": 2,
+    "capital":"Brasilia",
+    "countryName": "Brazil",
+    "population": 214300000,
+    "interestingFacts": "Brazil is home to the Amazon rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 3,
+    "capital":"Ottawa",
+    "countryName": "Canada",
+    "population": 38990000,
+    "interestingFacts": "Canada has more lakes than any other country and is known for its vast wilderness."
+  },
+  {
+    "id": 4,
+    "capital":"New Delhi",
+    "countryName": "India",
+    "population": 1426000000,
+    "interestingFacts": "India is the world's largest democracy and has over 2,000 distinct ethnic groups."
+  },
+  {
+    "id": 5,
+    "capital":"Canberra",
+    "countryName": "Australia",
+    "population": 26190000,
+    "interestingFacts": "Australia is home to unique wildlife like kangaroos and koalas and has the Great Barrier Reef."
+  },
+  {
+    "id": 6,
+    "capital":"Berlin",
+    "countryName": "Germany",
+    "population": 83500000,
+    "interestingFacts": "Germany is known for its engineering, castles, and the famous Oktoberfest beer festival."
+  },
+  {
+    "id": 7,
+    "capital":"Paris",
+    "countryName": "France",
+    "population": 67000000,
+    "interestingFacts": "France is famous for its cuisine, fashion, and landmarks like the Eiffel Tower."
+  },
+  {
+    "id": 8,
+    "capital":"Cairo",
+    "countryName": "Egypt",
+    "population": 112000000,
+    "interestingFacts": "Egypt is home to the ancient pyramids and the Nile, the longest river in the world."
+  },
+  {
+    "id": 9,
+    "capital":"Pretoria (administrative), Bloemfontein (judicial), Cape Town (legislative)",
+    "countryName": "South Africa",
+    "population": 60000000,
+    "interestingFacts": "South Africa has three capital cities and is known for its wildlife and natural beauty."
+  },
+  {
+    "id": 10,
+    "capital":"Mexico City",
+    "countryName": "Mexico",
+    "population": 131000000,
+    "interestingFacts": "Mexico is famous for its cuisine, ancient ruins, and vibrant festivals like Día de los Muertos."
+  },
+  {
+    "id": 11,
+    "capital":"Moscow",
+    "countryName": "Russia",
+    "population": 144000000,
+    "interestingFacts": "Russia is the largest country in the world by land area and spans 11 time zones."
+  },
+  {
+    "id": 12,
+    "capital":"Rome",
+    "countryName": "Italy",
+    "population": 59500000,
+    "interestingFacts": "Italy is famous for its art, history, and cuisine, including pizza and pasta."
+  }
+]
+
+ 
+

@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "tittle": "Find us",
+        "details": "Chandigarh, India"
+    },
+    {
+        "icon":"IoCallSharp",
+        "tittle":"Call us",
+        "details":"9813149758"
+    },
+    {
+        "icon":"TbMailPlus",
+        "tittle":"Mail us",
+        "details":"kuldeepbadgujar555@gmail.com"
+    }
+]
